@@ -1,0 +1,27 @@
+{
+  "name": "three-editor-controls",
+  "version": "1.0.0",
+  "description": "Modular editor controls for three.js.",
+  "main": "index.js",
+  "keywords": [
+    "threejs", 
+    "controls",
+    "keyboard",
+    "mouse",
+    "editing",
+    "editor"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkushner/three-editor-controls.git"
+  },
+  "author": "David Kushner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkushner/three-editor-controls/issues"
+  },
+  "homepage": "https://github.com/dkushner/three-editor-controls#readme"
+}
